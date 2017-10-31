@@ -1,0 +1,13 @@
+# Site settings
+title: Personal Homepage of Felix Widmann
+description: Personal Homepage of Felix Widmann
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Felix Widmann
+user_title: PhD student in Astrophysics
+email: fwidmann@mpe.mpg.de
+github_username:  fwidmann
+
+exclude: ['package.json', 'src' , 'node_modules']
