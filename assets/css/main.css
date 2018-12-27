@@ -47,4 +47,4 @@ p{font-size:16px}@media only screen and (min-width:768px){.user{font-size:75px}}
 .proj-thumb-left img {display: block}
 .proj-thumb-right img {display: block}
 .proj-content {}
-.proj-title {}
+.proj-title {font-size:25px}
