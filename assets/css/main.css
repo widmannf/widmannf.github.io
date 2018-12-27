@@ -25,7 +25,7 @@ import url(https://fonts.googleapis.com/css?family=Montserrat);body{font-family:
 .down .icon:active,.down .icon:hover,.footer 
 
 a:active,.footer 
-a:hover{color:#4b5664}.user{margin:20px auto;font-size:60px}.user 
+.user{margin:20px auto;font-size:60px}.user 
 
 p{font-size:16px}@media only screen and (min-width:768px){.user{font-size:75px}}
 .user-details{text-align:center;font-size:16px;margin:10px auto}
@@ -37,3 +37,14 @@ p{font-size:16px}@media only screen and (min-width:768px){.user{font-size:75px}}
 
 .footer{background:#1a222c;padding:10px 0;margin-top:100px;text-align:center;color:#fff}
 .footer a{text-decoration:none;margin:0;color:#fff}
+
+.normal:link{color:#c02f1d; text-decoration:none}
+.normal:visited{color:#c02f1d; text-decoration:none}
+.normal:hover{color:#1a222c; text-decoration:none}
+
+.proj-thumb-left {float: left}
+.proj-thumb-right {float: right}
+.proj-thumb-left img {display: block}
+.proj-thumb-right img {display: block}
+.proj-content {}
+.proj-title {}
